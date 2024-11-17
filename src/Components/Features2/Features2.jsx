@@ -2,7 +2,7 @@ import React from "react";
 
 const Features2 = () => {
   return (
-    <div className="h-full min-h-screen w-full bg-gray-800 pt-12 p-4">
+    <div className="h-full  w-full bg-gray-800 pt-12 p-4">
       <div className="grid gap-14 md:grid-cols-3 md:gap-5">
         <div className="rounded-xl bg-white p-6 text-center shadow-xl">
           <div
@@ -82,6 +82,7 @@ const Features2 = () => {
           </p>
         </div>
 
+        
         
         {/* Repeat for other cards */}
       </div>
