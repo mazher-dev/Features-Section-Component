@@ -3,7 +3,7 @@ import { Card, CardBody, Typography, Avatar } from "@material-tailwind/react";
 
 export function FeatureSection16() {
   return (
-    <section className="lg:py-28 py-10 px-8">
+    <section className="lg:py-28 py-10 px-8 bg-white mb-10">
       <div className="container mx-auto mb-10 text-center lg:mb-20">
         <Typography
           color="blue-gray"
