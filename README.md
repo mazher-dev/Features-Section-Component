@@ -1,8 +1,8 @@
-# Feature Section Components
+# UIHive Feature Section Components
 
 A repository for creating a Feature Section that highlights key services, products, or benefits. Built for flexibility and a visually appealing presentation.
 
-Check out the live site here: https://features-section-components.netlify.app/
+
 
 ## Features
 
